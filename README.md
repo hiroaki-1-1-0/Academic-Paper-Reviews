@@ -12,18 +12,25 @@ I stack the paper to the "issues".
 - Paper: [link](url)
 
 ## 1. Overview
+- 
 
 ## 2. Novelty / Utility
+-
 
 ## 3. Core Method
+-
 
 ## 4. Validation
+-
 
 ## 5. Limitations / Discussions
+-
 
 ## 6. Further Reading
+-
 
 ## 7. Personal Comments
+-
 ```
 
 ## Acknowledgments

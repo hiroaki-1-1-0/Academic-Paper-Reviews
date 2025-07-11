@@ -2,8 +2,7 @@
 I stack the paper to the "issues".
 
 ## Main topic (for now)
-* Multilingual LLMs
-* Post-Training
+* Multilingual LLMs × Post-Training
 * General NLP
 
 ## Format

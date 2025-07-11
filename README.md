@@ -9,7 +9,6 @@ I stack the paper to the "issues".
 ```
 ## 0. Info
 - Author: 
-- Year: 20xx
 - Paper: [link](url)
 
 ## 1. Overview

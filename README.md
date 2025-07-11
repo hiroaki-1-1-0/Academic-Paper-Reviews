@@ -7,9 +7,10 @@ I stack the paper to the "issues".
 
 ## Format
 ```
-## 0. Paper
-- Author: 
-- paper: [link ](url)
+## 0. Info
+- Author:
+- Year: 20xx
+- Paper: [link ](url)
 
 ## 1. Overview
 

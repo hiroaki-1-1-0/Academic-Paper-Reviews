@@ -1,9 +1,10 @@
 # Academic-Paper-Reviews
-I stack the paper to the "issues".
+I stack paper reviews to the "issues". Your comments are appreciated:)
 
 ## Main topic (for now)
 * Multilingual LLMs × Post-Training
-* General NLP
+* NLP in general
+* ALife in the broad sense
 
 ## Format
 ```

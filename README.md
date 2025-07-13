@@ -1,4 +1,4 @@
-# Reading-Papers
+# Paper-Reading
 I stack the paper to the "issues".
 
 ## Main topic (for now)

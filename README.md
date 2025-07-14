@@ -14,7 +14,7 @@ I stack paper reviews to the "issues". Your comments are appreciated:)
 - Author: 
 - Paper: [link](url)
 
-## 1. In a Word
+## 1. In a Nutshell
 - 
 
 ## 2. Novelty / Utility

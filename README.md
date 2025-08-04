@@ -8,7 +8,7 @@ I stack paper reviews to the "issues". Your comments are appreciated:)
 
 ## Format
 ```
-# [Reading]
+[Reading]
 
 ## 0. Info
 - Author: 

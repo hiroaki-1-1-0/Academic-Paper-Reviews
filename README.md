@@ -30,7 +30,7 @@ I stack paper reviews to the "issues". Your comments are appreciated:)
 - 
 
 ## 6. Further Reading
-- 
+- Author et al. (), "Title": In a nutshell.
 
 ## 7. Personal Comments
 - 

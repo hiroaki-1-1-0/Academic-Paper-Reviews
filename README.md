@@ -8,8 +8,6 @@ I stack paper reviews to the "issues". Your comments are appreciated:)
 
 ## Format
 ```
-[Reading]
-
 ## 0. Info
 - Author: 
 - Paper: [link](url)

@@ -12,13 +12,13 @@ I stack paper reviews to the "issues". Your comments are appreciated:)
 - Author: 
 - Paper: [link](url)
 
-## 1. In a Nutshell
+## 1. Novelty / Utility
 - 
 
-## 2. Novelty / Utility
+## 2. Key Question / Problem
 - 
 
-## 3. Core Method
+## 3. Key Finding / Solution
 - 
 
 ## 4. Validation
